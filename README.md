@@ -11,16 +11,10 @@ Discover a digital haven where creativity intertwines with technology. Explore m
 
 ## Copyright
 
-© [Your Name/Company Name] [Year]
+© [Dinh Tran] [2024]
 
-**Dinh Tran's Website** is meticulously designed and developed by [Your Name/Company Name], offered under the MIT license.
+**Dinh Tran's Website** is meticulously re-designed and developed by [Dinh Tran], offered under the MIT license.
 
-Special thanks to the authors of the tools and frameworks used in building this website:
-- **Mediumish for Jekyll** is designed and developed by [Sal](https://www.wowthemes.net)
-  - Name: Sal
-  - Description: Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll.
-- [John](https://www.wowthemes.net)
-  - Name: John
-  - Description: This is the author box. Write a short description of the author here.
+Special thanks to the [:100: Sal :100:] in building this wonderful website:
 
 For inquiries or suggestions, please feel free to contact me.
