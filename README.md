@@ -22,7 +22,9 @@
 ## 📝 Overview
 "Step into my digital realm ✨ Explore a showcase of innovative projects, delve into captivating blog posts, connect with me across social platforms, and peruse my curated online store. Let's embark on this journey towards professional excellence together!"
 
-![GIPHY](https://media.giphy.com/media/SHjOSDkKZ18qOHA5B5/giphy.gif)
+<div style="text-align: center;">
+    <img src="https://media.giphy.com/media/SHjOSDkKZ18qOHA5B5/giphy.gif" alt="GIPHY">
+</div>
 
 ## 🔍 Explore
 
